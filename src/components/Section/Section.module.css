@@ -3,3 +3,8 @@
     flex-direction: column;
     align-items: center;
 }
+
+.sectionTitle {
+    margin-bottom: 25px;
+    font-size: 28px;
+}
